@@ -1,3 +1,13 @@
+<!--
+
+author: Moritz Riemann
+email:  riemann@philsem.uni-kiel.de
+version: 0.1
+language: en
+narrator: UK English Female
+
+\-->
+
 # Simone Weil: Krieg und Gewalt
 
 **Dozent:**
@@ -21,23 +31,23 @@
 
 ### Semesterplan
 
-| Datum | Thema, Inhalt |
-|-------|---------------|
-| 16\.04.2024 | Eröffnung, Organisatorisches |
-| 23\.04.2024 | Deutschland wartet |
-| 30\.04.2024 | Gedanken über den Krieg |
-| 07\.05.2024 | Antwort auf eine Frage von Alain; Spanisches Tagebuch; Missliebige Gedanken |
-| 14\.05.2024 | Beginnen wir den trojanischen Krieg nicht von Neuem |
-| 21\.05.2024 | Gedanken über die Barbarei; Einige Überlegungen zu den Ursprüngen des Hitlerismus |
-| 28\.05.2024 | Einige Überlegungen zu den Ursprüngen des Hitlerismus |
-| 04\.06.2024 | Die Ilias oder das Poem der Gewalt |
-| 11\.06.2024 | Die Ilias oder das Poem der Gewalt |
-| 18\.06.2024 | Dieser Krieg ist ein Krieg von Religionen |
-| 25\.06.2024 | Reflexionen über die Ursachen der Freiheit und sozialen Unterdrückung (Auszug) |
-| 02\.07.2024 | Reflexionen über die Ursachen der Freiheit und sozialen Unterdrückung (Auszug) |
-| 09\.07.2024 | Abschlussdiskussion |
+| Datum       | Thema, Inhalt                                                                     |
+|-------------|-----------------------------------------------------------------------------------|
+| 16.04.2024 | Eröffnung, Organisatorisches                                                      |
+| 23.04.2024 | Deutschland wartet                                                                |
+| 30.04.2024 | Gedanken über den Krieg                                                           |
+| 07.05.2024 | Antwort auf eine Frage von Alain; Spanisches Tagebuch; Missliebige Gedanken       |
+| 14.05.2024 | Beginnen wir den trojanischen Krieg nicht von Neuem                               |
+| 21.05.2024 | Gedanken über die Barbarei; Einige Überlegungen zu den Ursprüngen des Hitlerismus |
+| 28.05.2024 | Einige Überlegungen zu den Ursprüngen des Hitlerismus                             |
+| 04.06.2024 | Die Ilias oder das Poem der Gewalt                                                |
+| 11.06.2024 | Die Ilias oder das Poem der Gewalt                                                |
+| 18.06.2024 | Dieser Krieg ist ein Krieg von Religionen                                         |
+| 25.06.2024 | Reflexionen über die Ursachen der Freiheit und sozialen Unterdrückung (Auszug)    |
+| 02.07.2024 | Reflexionen über die Ursachen der Freiheit und sozialen Unterdrückung (Auszug)    |
+| 09.07.2024 | Abschlussdiskussion                                                               |
 
-### Regierungserklärung
+### "Regierungserklärung"
 
 1. Die Teilnahme am Seminar erfordert die vorbereitende, gründliche Lektüre der Texte.
 2. Eine regelmäßige und aktive Teilnahme aller Seminarteilnehmenden ist Voraussetzung für ein gelingendes Seminar.
