@@ -33,19 +33,19 @@ narrator: UK English Female
 
 | Datum | Thema, Inhalt |
 |-------|---------------|
-| 16\.04.2024 | Eröffnung, Organisatorisches |
-| 23\.04.2024 | Deutschland wartet |
-| 30\.04.2024 | Gedanken über den Krieg |
-| 07\.05.2024 | Antwort auf eine Frage von Alain; Spanisches Tagebuch; Missliebige Gedanken |
-| 14\.05.2024 | Beginnen wir den trojanischen Krieg nicht von Neuem |
-| 21\.05.2024 | Gedanken über die Barbarei; Einige Überlegungen zu den Ursprüngen des Hitlerismus |
-| 28\.05.2024 | Einige Überlegungen zu den Ursprüngen des Hitlerismus |
-| 04\.06.2024 | Die Ilias oder das Poem der Gewalt |
-| 11\.06.2024 | Die Ilias oder das Poem der Gewalt |
-| 18\.06.2024 | Dieser Krieg ist ein Krieg von Religionen |
-| 25\.06.2024 | Reflexionen über die Ursachen der Freiheit und sozialen Unterdrückung (Auszug) |
-| 02\.07.2024 | Reflexionen über die Ursachen der Freiheit und sozialen Unterdrückung (Auszug) |
-| 09\.07.2024 | Abschlussdiskussion |
+| 16.04.2024 | Eröffnung, Organisatorisches |
+| 23.04.2024 | Deutschland wartet |
+| 30.04.2024 | Gedanken über den Krieg |
+| 07.05.2024 | Antwort auf eine Frage von Alain; Spanisches Tagebuch; Missliebige Gedanken |
+| 14.05.2024 | Beginnen wir den trojanischen Krieg nicht von Neuem |
+| 21.05.2024 | Gedanken über die Barbarei; Einige Überlegungen zu den Ursprüngen des Hitlerismus |
+| 28.05.2024 | Einige Überlegungen zu den Ursprüngen des Hitlerismus |
+| 04.06.2024 | Die Ilias oder das Poem der Gewalt |
+| 11.06.2024 | Die Ilias oder das Poem der Gewalt |
+| 18.06.2024 | Dieser Krieg ist ein Krieg von Religionen |
+| 25.06.2024 | Reflexionen über die Ursachen der Freiheit und sozialen Unterdrückung (Auszug) |
+| 02.07.2024 | Reflexionen über die Ursachen der Freiheit und sozialen Unterdrückung (Auszug) |
+| 09.07.2024 | Abschlussdiskussion |
 
 ### "Regierungserklärung"
 
@@ -114,13 +114,13 @@ narrator: UK English Female
 * Antje Schrupp (Politikwissenschaften): Zum 100. Geburtstag von Simone Weil https://www.antjeschrupp.de/simone-weil
 * Stanford Encyclopedia of Philosophy: Simone Weil https://plato.stanford.edu/entries/simone-weil/
 
-## 1\. Sitzung 16.04.2024
+## 1. Sitzung 16.04.2024
 
 **Biographisches**
 
 ![alt text](200.png)
 
-* 3\.\\ Februar 1909 (Paris) - 24.\\ August 1943 (Ashford, England)
+* 3. Februar 1909 (Paris) - 24. August 1943 (Ashford, England)
 * Kind einer großbürgerlichen jüdischen Familie
 * ab 1924 Studium der Philosophie, ab 1928 an der ENS in Paris
 * 1931-1934 Engagement für den revolutionären Syndikalismus; Philosophielehrerin in Le Puy (gibt die Hälfte ihres Gehalts an Arbeitslose ab)
@@ -142,7 +142,7 @@ narrator: UK English Female
 
 * Schwerkraft und Gnade. Übers. Friedhelm Kemp. München 1952. (La pesanteur et la grâce) neu herausgegeben von Charlotte Bohn und mit einem Essay von Frank Witzel. Matthes & Seitz, Berlin 2020, ISBN 978-3-95757-934-8.
 * Das Unglück und die Gottesliebe. Übers. Friedhelm Kemp. München 1953. (Attente de Dieu)
-* Die Einwurzelung, Einführung in die Pflichten dem menschlichen Wesen gegenüber. Übers. Friedhelm Kemp. Kösel, München 1956 (L’Enracinement)[109] Neuübers. Marianne Schneider: Die Verwurzelung. Vorspiel zu einer Erklärung der Pflichten dem Menschen gegenüber. diaphanes, Zürich 2011, ISBN 978-3-03734-161-2.
+* Die Einwurzelung, Einführung in die Pflichten dem menschlichen Wesen gegenüber. Übers. Friedhelm Kemp. Kösel, München 1956 (L’Enracinement) Neuübers. Marianne Schneider: Die Verwurzelung. Vorspiel zu einer Erklärung der Pflichten dem Menschen gegenüber. diaphanes, Zürich 2011, ISBN 978-3-03734-161-2.
 * Unterdrückung und Freiheit. Politische Schriften. Übers. Heinz Abosch. Rogner & Bernhard, Frankfurt am Main 1975; Zweitausendeins, Frankfurt am Main 1987.
 * Zeugnis für das Gute: Traktate, Briefe, Aufzeichnungen. Hg. u. Übers. Friedhelm Kemp. Walter, Olten/Freiburg i. Br. 1976 / dtv, München 1990 / Benziger, Zürich 1998.
 * Fabriktagebuch und andere Schriften zum Industriesystem. Übers. Heinz Abosch. Suhrkamp, Frankfurt am Main 1978.
