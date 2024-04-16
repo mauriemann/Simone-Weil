@@ -6,7 +6,7 @@ version: 0.1
 language: en
 narrator: UK English Female
 
-\-->
+-->
 
 # Simone Weil: Krieg und Gewalt
 
@@ -120,7 +120,7 @@ narrator: UK English Female
 
 ![alt text](200.png)
 
-* 3. Februar 1909 (Paris) - 24. August 1943 (Ashford, England)
+* 3.Februar 1909 (Paris) - 24.August 1943 (Ashford, England)
 * Kind einer großbürgerlichen jüdischen Familie
 * ab 1924 Studium der Philosophie, ab 1928 an der ENS in Paris
 * 1931-1934 Engagement für den revolutionären Syndikalismus; Philosophielehrerin in Le Puy (gibt die Hälfte ihres Gehalts an Arbeitslose ab)
@@ -134,7 +134,7 @@ narrator: UK English Female
 * Spirituelle Annährung an die katholische Lehre ohne Eintritt in die Kirche
 * 1940 Flucht vor der Gestapo nach Marseille
 * 1942 Flucht über die USA nach England. Dort Arbeit im Beferiungskomitee von de Gaulle
-* 1943 stirbt Weil an an den Folgen ihrer jahrelangen Mangelernährung. Sie hatte ihre Nahrungsaufnehme auf das beschränkt, was ihrer Meinung nach die Bewohner des von den Deutschen besetzten Frankreichs aßen.
+* 1943 stirbt Weil an an den Folgen ihrer jahrelangen Mangelernährung. Sie hatte ihre Nahrungsaufnahme auf das beschränkt, was ihrer Meinung nach die Bewohner des von den Deutschen besetzten Frankreichs aßen.
 
 **Schriften**
 
@@ -165,3 +165,70 @@ narrator: UK English Female
 * Luttons-nous pour la Justice? Manuel d’action politique. présentation, étude, notes et index par P. David, éditions Peuple Libre, 2017.
 * Amitié: L’art de bien aimer. Rivages poche, 2017, ISBN 978-2-7436-3596-1.
 * Force et malheur. Éditions la Tempête, 2019, ISBN 979-10-94512-08-1.
+
+
+
+### Hinweise für das Verfassen von Sitzungsprotokollen im Modul BA 2
+
+
+#### I. Grundformen und Funktionen
+1. Wortprotokoll /Verbalprotokoll – direkte Dokumentation des mündlichen Wortlauts z.B.
+bei Gerichtsverhandlungen
+2. Verlaufsprotokoll/ Verhandlungsprotokoll – Protokoll des Gesprächsprozesses. Wie kam
+es zu Beschlüssen oder Ergebnissen? Wie lauteten die Argumente?
+3. Ergebnisprotokoll/ Beschlussprotokoll – Fokus auf Ergebnisse. Keine Dokumentation des
+Gesprächsprozesses.
+4. Das wissenschaftliche Protokoll – Anteile des Verlauf- und Ergebnisprotokolls.
+Schriftliche und systematische Wiedergabe diskursiv erarbeiteten Wissens, die eine
+gemeinsame Wissensbasis schafft. Funktionen: Dokumentation und Aufbereitung des
+Wissens, Literaturgrundlage, Kontrolle des Wissensstandes, Üben wissenschaftlichen
+Formulierens
+
+#### II. (Sprachliche) Gestaltung
+
+1. Der Protokollkopf: Name der Hochschule, Institut, Seminartyp, Seminarleitung, Protokollant:in, Semester, Datum.
+2. Der Protokolltext: Der Text ist im Präsens zu verfassen. Bei Bezügen auf den Seminarverlauf - also was eine Person sagte - wird Präteritum gewählt. Das Protokoll ist in ganzen Sätzen (nicht in Stichpunkten) zu formulieren. Ergebnisse sollen dargestellt werden, allerdings auch deren diskursiver Zusammenhang berücksichtigt werden. Die namentliche Nennung von Sprecher*innen ist nicht angebracht. Besonders wichtige Aspekte können markiert oder hervorgehoben werden. Auch sollte das Protokoll sinnvoll durch Überschriften und Zwischenüberschriften (Thema und Unterthemen der Sitzung) strukturiert werden. Übliche Länge sind zwei bis drei DIN-A 4-Seiten.
+3. Der Anhang: Bibliographie der Literatur der Seminarsitzung / Folien auf die Bezug genommen wurde.
+4. Textformat: Serifenfont (z.B. Times New Roman) 12pt, Fußnoten 10pt., Zeilenabstand 1,5, Blocksatz, Seitenränder 3cm links, 3cm rechts 
+
+#### III. Herausforderungen
+* Balance zwischen diskursivem Verlauf und Ergebnissen -> Herausarbeitung der (zentralen) Ergebnisse. 
+* Balance zwischen sprachlicher Verknappung/Abstraktion und Wiedergabe der Beiträge. Bitte keine Umgangssprache verwenden. Auf korrekte Fachlexik achten. 
+* Das Protokoll vor der Abgabe Korrektur lesen (lassen).
+* Formal: Protokollkopf einfügen, Gliedern und Strukturieren, Literaturangaben nicht vergessen, Markierungen einheitlich verwenden. (siehe Checkliste) 
+
+#### IV. Fünf Schritte bei der Erstellung des Protokolls 
+
+1. **Vorbereitung.** 
+Die zu protokollierende Sitzung sollte gut vorbereitet sein.
+2. **Rezeption der Seminarsitzung.**
+Die anspruchsvolle Aufgabe, Inhalte zu komprimieren und zu strukturieren ist durch eine Tonaufnahme nicht bewältigt, sondern nur vertagt. Außerdem erfordert die Aufnahme das Einverständis des gesamten Plenums. Hören Sie gut zu und seien Sie gnädig mit sich, wenn Sie nicht die vollen 90 Minuten jeden Satz verstehen. 
+3. **Mitschrift während der Sitzung.** 
+Wichtige Inhalte müssen dokumentiert werden – gern auch in Stichpunkten oder unter Verwendung von Symbolen und Verweisen. Es ist nicht leicht zu entscheiden, was wichtig und was weniger wichtig ist. Hier hilft es Ihnen, wenn Sie exzellent auf die Seminarsitzung vorbereitet sind. Achten Sie auf folgende Aspekte: 
+    * Quantität der Besprechungsdauer – Wie lange wurde ein Aspekt besprochen? 
+    * Top-down denken. Lässt sich die Sitzung in Themenclustern beschreiben? Wie lässt sich eine Struktur herstellen? 
+    * Gesamtdiskurs aufzeigen. Welche Aspekte vergangener Sitzungen wurden aufgegriffen?
+    * Bilanz ziehen. Offene Fragen nennen. 
+4. **Komprimieren und Reproduzieren.** 
+Es bietet sich an, die Mitschrift so schnell wie möglich zu bearbeiten, da die Inhalte dann noch frisch erinnert werden. Ergänzen Sie nun aus dem Gedächtnis oder aus Ihren Materialien wichtige Aspekte ihrer Mitschrift und bringen Sie die Inhalte in eine Struktur (die von der Chronologie des Seminars abweichen kann). 
+5. **Erstellen des Protokolls.** 
+Die Stichpunkte und Notizen müssen nun in ganze Sätze und eine kohärente Form gebracht werden. Möglicherweise wird der Text auch nochmals umstrukturiert. Der fertige, korrigierte Text kann auch nochmal anhand der Funktionen des Protokolls überprüft werden. Kann eine fremde Person den Sitzungsverlauf und -inhalte nachvollziehen?
+
+
+#### V. Checkliste vor der Abgabe
+
+
+ 1. Hat Ihr Protokoll einen Kopf?
+ 2. Ist Ihr Text einheitlich formatiert, im Blocksatz und unter Berücksichtigung der Seitenränder? Stimmen die Seitenumbrüche? Haben Sie Seitenzahlen angegeben?
+ 3. Haben Sie die Textgrundlage der Sitzung und weitere Quellen einheitlich und eindeutig bibliographisch nachgewiesen?
+ 4. Besteht Ihr Text aus ganzen und klar verständlichen Sätzen?
+ 5. Haben Sie Orthographie und Grammatik korrekturgelesen? Haben Sie Fremdwörter und Fachbegriffe nachgeschlagen und deren korrekte Schreibweise überprüft?
+ 6. Haben Sie die Sitzungsinhalte gegliedert?
+ 7. Ist Ihr Text ergebnisorientiert verfasst?
+ 8. Lassen sich die wichtigsten Inhalte der Sitzung anhand Ihres Textes nachvollziehen? Stellen Sie sich vor, Sie müssten einer Kommiliton:in berichten, die bei der Sitzung fehlte.
+ 9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .pdf exportiert?
+10. Haben Sie alle Punkte der Checkliste berücksichtigt?
+11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen? 
+
+Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfassen, Paderborn 2011.
+
