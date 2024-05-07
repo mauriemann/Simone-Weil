@@ -173,11 +173,11 @@ narrator: UK English Female
 
 #### I. Grundformen und Funktionen
 
-1. Wortprotokoll /Verbalprotokoll – direkte Dokumentation des mündlichen Wortlauts z.B.
+1. Wortprotokoll, Verbalprotokoll – direkte Dokumentation des mündlichen Wortlauts z.B.
 bei Gerichtsverhandlungen
-2. Verlaufsprotokoll/ Verhandlungsprotokoll – Protokoll des Gesprächsprozesses. Wie kam
+2. Verlaufsprotokoll, Verhandlungsprotokoll – Protokoll des Gesprächsprozesses. Wie kam
 es zu Beschlüssen oder Ergebnissen? Wie lauteten die Argumente?
-3. Ergebnisprotokoll/ Beschlussprotokoll – Fokus auf Ergebnisse. Keine Dokumentation des
+3. Ergebnisprotokoll, Beschlussprotokoll – Fokus auf Ergebnisse. Keine Dokumentation des
 Gesprächsprozesses.
 4. Das wissenschaftliche Protokoll – Anteile des Verlauf- und Ergebnisprotokolls.
 Schriftliche und systematische Wiedergabe diskursiv erarbeiteten Wissens, die eine
@@ -204,6 +204,7 @@ Formulierens
 1. **Vorbereitung.** 
 
 Die zu protokollierende Sitzung sollte gut vorbereitet sein.
+
 2. **Rezeption der Seminarsitzung.**
 
 Die anspruchsvolle Aufgabe, Inhalte zu komprimieren und zu strukturieren ist durch eine Tonaufnahme nicht bewältigt, sondern nur vertagt. Außerdem erfordert die Aufnahme das Einverständis des gesamten Plenums. Hören Sie gut zu und seien Sie gnädig mit sich, wenn Sie nicht die vollen 90 Minuten jeden Satz verstehen. 
@@ -211,6 +212,7 @@ Die anspruchsvolle Aufgabe, Inhalte zu komprimieren und zu strukturieren ist dur
 3. **Mitschrift während der Sitzung.** 
 
 Wichtige Inhalte müssen dokumentiert werden – gern auch in Stichpunkten oder unter Verwendung von Symbolen und Verweisen. Es ist nicht leicht zu entscheiden, was wichtig und was weniger wichtig ist. Hier hilft es Ihnen, wenn Sie exzellent auf die Seminarsitzung vorbereitet sind. Achten Sie auf folgende Aspekte: 
+
     * Quantität der Besprechungsdauer – Wie lange wurde ein Aspekt besprochen? 
     * Top-down denken. Lässt sich die Sitzung in Themenclustern beschreiben? Wie lässt sich eine Struktur herstellen? 
     * Gesamtdiskurs aufzeigen. Welche Aspekte vergangener Sitzungen wurden aufgegriffen?
