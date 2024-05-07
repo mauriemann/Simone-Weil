@@ -232,3 +232,134 @@ Die Stichpunkte und Notizen müssen nun in ganze Sätze und eine kohärente Form
 
 Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfassen, Paderborn 2011.
 
+## 3. Sitzung am 30.04.2024
+
+Textgrundlage:
+* Gedanken über den Krieg [November 1933]
+
+Protokoll: Cedric A. Smerling
+
+**Rekapitulation & historischer Kontext**
+
+Eingangsfrage: Was ist die politische Situation in Europa im Jahre 1933?
+
+Das Plenum nennt anbahnende Krisen, Verunsicherungen in der Bevölkerung und den
+kommenden Koalitionskrieg als Kontext. Weiter gibt es ein Erstarken des
+Nationalsozialismus in Deutschland, seitdem Hitler die Position des Reichskanzlers
+bekleidet, zudem gibt es zu der Zeit viele weitere faschistisch orientierte Länder in
+Europa wie z. B. Italien. Im Kontrast dazu gibt es in anderen Ländern auch
+demokratische und kommunistische Systeme. Die europäische Politik ist sehr
+heterogen. Auch wird hohe Arbeitslosigkeit genannt, was zu hoher Unzufriedenheit in
+der Bevölkerung führt. Ergänzend dazu erwähnt die Seminarleitung, dass seit 1929 eine
+Weltwirtschaftskrise (verursacht durch den Börsencrash) anhält, welche die Bildung von
+extremen Ideologien, genährt durch die große Unzufriedenheit, begünstigt. Eine weitere
+wichtige Wendung in der Geschichte ist Deutschlands Austritt aus dem Völkerbund im
+Jahre 1933, welcher eine erste außenpolitische, faschistische Bewegung im
+europäischen Raum darstellt. Das Plenum erwähnt noch weitere, historisch bedeutsame
+Schlüsselbegriffe wie Dolchstoßlegende, Schande von Versailles und Einigungskriege.
+Die Begriffe werden auf Wunsch der Seminarleitung genauer erläutert.
+Im Zuge dessen wird die “deutsch-französische Erbfeindschaft” genannt, welche bis zur
+Zeit Napoleons zurückgeführt werden kann. Im Geiste dieser Erbfeindschaft wird der
+erste Weltkrieg begonnen und es sollte auch nicht mehr lange dauern (etwa 6 Jahre) bis
+in ähnlicher Weise der zweite Weltkrieg ausbricht. Ergänzend dazu erwähnt das Plenum,
+dass Uneinigkeit über die Besetzung von Elsaß-Lothringen wiederholt zu politischen
+Spannungen zwischen Deutschland und Frankreich führt. Die bereits genannte
+Unzufriedenheit in der Arbeiterklasse führt des Weiteren zu einer Schwächung der
+kommunistischen Partei und um 1932 endet die “heftige” deutsche Sparpolitik und
+Deutschland versucht mit dem Drucken von Geld und Arbeitsbeschaffungsmaßnahmen
+der Weltwirtschaftskrise entgegenzuwirken.
+
+**Essay: Gedanken über den Krieg**
+
+Gruppenarbeit:  
+
+1. Mit welchem Vokabular beschreibt Weil den Krieg? 
+2. Wie denkt Weil über den Krieg?
+3. Welcher Ausdruck wird wahrgenommen // was fällt besonders auf?
+
+Ergebnisse: 
+
+Der Krieg wird mit Begriffen wie Arbeiterkampf und Klassenkampf in Verbindung gebracht. Auch wird der Krieg als Maschine beschrieben, die alles und jeden zermalmt, der kein Zahnrad in dieser Maschine ist. Weil appelliert dabei an die Vernunft und betont den Irrsinn des Krieges. Sie bezeichnet den Krieg als Gemetzel, was sehr emotional erscheint. Insbesondere bezogen auf ein Zitat von Liebknecht: “der Hauptfeind steht im eigenen Land”, was wohl zeigen soll, dass der eigentliche Feind der Staat ist, der sein eigenes Volk “verheizt”. 
+
+Die Relevanz des Satzes von Clausewitz wird hervorgehoben, nach dem der Krieg nur die Politik der
+Friedenszeit fortsetzt, aber mit anderen Mitteln. Ergänzend dazu erwähnt die
+Seminarleitung, dass Krieg oft genutzt wird, um verlorene nationale Einigkeit
+wiederherzustellen, indem man ein gemeinsames, externes Feindbild konstruiert. Im
+Rahmen der Diskussion kommt die **Korrelation zwischen Revolution und Krieg** (oder
+auch revolutionärer Krieg) auf, welche von Weil ad absurdum geführt wird. Weil sehnt
+sich gemäß ihrer anarchistischen Ansichten eigentlich nach einer Revolution, welche
+ein System ins Leben ruft, welches auf autoritäre Systeme und Strukturen verzichtet,
+allerdings muss man die herrschenden Aktionäre i.d.R. mit Hilfe ebendieser Systemen
+und Strukturen unterwerfen und es entsteht ein neues autoritäres System. Man könnte
+diesen Sachverhalt als *Paradoxie des Revolutionären Krieges* bezeichnen.
+
+**Weitere Ansichten von Weil über den Krieg**
+
+In diesem Teil der Diskussion wird der Revolutionsbegriff weiter erörtert. Die
+Seminarleitung wirft ein, dass Weil nicht streng pazifistisch ist, allerdings den Krieg als
+Mittel zu revolutionistischen Zwecken verurteilt. Weil sagt “Der Revolutionskrieg ist
+der Tod jeder Revolution”[1], solange Bürger und Soldaten nicht die volle Macht
+ausüben. Sobald eine Revolution (Überwinden der staatlichen Autorität mit allen
+Mitteln) das Ausmaß eines Krieges annimmt, übernimmt der Staat die Führung und
+verfolgt stets nur noch seine eigenen Interessen. Ein anti-autoritärer Krieg wäre eine
+Lösung, für die es aber bislang keine Umsetzung gibt. Das Plenum ergänzt, dass global
+die meisten Revolutionen erfolglos bleiben und durch jene Fehlschläge oft zu einer
+Stärkung des Staatsapparates und zu Frust in der Bevölkerung führen. Auch passen
+Revolution und Krieg begrifflich nicht wirklich zusammen, da sich Revolution meist
+innenpolitisch (als Machtwechsel) und Krieg meist außenpolitisch (zwischen Staaten) abspielt. Nach Weil sind Revolution und Krieg grundsätzlich verschieden, aber
+historisch betrachtet werden sie immer wieder in Zusammenhang gebracht (Revolution
+mündet oft in Krieg). Eine ungeklärte zentrale Frage bleibt: “Wie bekämpft man
+Faschismus, vor allem ohne Krieg als Mittel zum Zweck?”
+
+**Erarbeitung einer zweiten Kernaussage**
+
+Eine weitere zentrale Frage stellt sich im Plenum: “Was verstehen wir unter
+Revolution?”. Die Seminarleitung erläutert, dass das Ziel der Revolution klar ist. Es
+sollen Lebensbedingungen für Menschen geschaffen werden und der Ausbeutung soll
+ein Ende gesetzt werden. Unklar ist jedoch, mit welchen Mitteln das umgesetzt werden
+kann und es ist auch unvorhersehbar, wie die Gesellschaft nach einem solchen
+Umschwung aussehen wird. Weiter stellt sich heraus, dass der Faschismus für Weil
+keine echte Arbeiterbewegung ist. In deutschen Konzentrationslagern herrschen
+menschenfeindliche Bedingungen und auch im Kommunismus liegt nicht die Lösung
+des Arbeiterproblems. Schließlich stellt sich heraus, dass Weils Ansicht von Revolution
+und Gewalt in zukünftigen Sitzungen noch weiter elaboriert werden muss. Ein zentrales
+Problem kristallisiert sich aus den vorangegangenen Informationen jedoch heraus. Im
+Krieg und auch in der Revolution wird der Mensch als Mittel zum Zweck genutzt und
+missbraucht. Er wird instrumentalisiert.
+
+**Abschluss der Sitzung / Fazit / Zusammenfassung**
+
+
+Die Seminarleitung stellt dem Plenum die Frage: “Was nehmt ihr aus der Sitzung mit?”.
+Plenum nennt hohe Empathie seitens Weil für die (deutschen) Arbeiter und allgemein
+großen Bezug Arbeitern im Rahmen ihrer Texte. Auch wird Weils bildhafte Sprache
+erwähnt. Es stellt sich heraus, dass die innenpolitische Betrachtung des Krieges gänzlich
+andere Erkenntnisse liefert als die außenpolitische. Der Krieg wird als Klassenkampf
+zwischen Herrschaft und Arbeiterschaft wahrgenommen. Des Weiteren erweckt Weil
+einen Eindruck der Sinnlosigkeit vom Krieg und gibt eine kritische
+Gesellschaftsanalyse ab. Es wird der Eindruck einer politisch systemischen Kontinuität
+des Krieges gewonnen, in der Krieg kein Bruch des Systems ist, sondern nur ein
+(temporärer) Bruch des Friedens. Abschließend wird ergänzt, dass bei allen Schrecken,
+die der Krieg birgt, dieser im Prinzip ein politisches Werkzeug ist, mit dessen Nutzung
+gerechnet werden muss. Abschließend gibt es einen kurzen Ausblick auf die kommende
+Sitzung, insbesondere in Hinblick auf die Heterogenität von Weils Texten.
+
+
+
+
+
+## 4. Sitzung am 07.05.2024
+
+Textgrundlage:
+
+* Antwort auf eine Frage von Alain [März 1936]
+* Spanisches Tagebuch [August 1936]
+* Missliebige Gedanken [Oktober 1936]
+
+**Alain**
+
+* eig. [Émile-Auguste Chartier](https://de.wikipedia.org/wiki/%C3%89mile_Chartier) [1868-1951]
+* frz. Denker und Schriftsteller, Lehrer u.a. von [Raymond Aron](https://de.wikipedia.org/wiki/Raymond_Aron) [1905-1983], [Georges Camguilhem](https://de.wikipedia.org/wiki/Georges_Canguilhem) [1904-1995] und eben Simone Weil.
+* enger literarischer und gedanklicher Austausch
+
+![alt text](459px-Émile_Chartier_portrait.jpeg)
