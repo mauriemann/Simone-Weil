@@ -172,6 +172,7 @@ narrator: UK English Female
 
 
 #### I. Grundformen und Funktionen
+
 1. Wortprotokoll /Verbalprotokoll – direkte Dokumentation des mündlichen Wortlauts z.B.
 bei Gerichtsverhandlungen
 2. Verlaufsprotokoll/ Verhandlungsprotokoll – Protokoll des Gesprächsprozesses. Wie kam
@@ -192,6 +193,7 @@ Formulierens
 4. Textformat: Serifenfont (z.B. Times New Roman) 12pt, Fußnoten 10pt., Zeilenabstand 1,5, Blocksatz, Seitenränder 3cm links, 3cm rechts 
 
 #### III. Herausforderungen
+
 * Balance zwischen diskursivem Verlauf und Ergebnissen -> Herausarbeitung der (zentralen) Ergebnisse. 
 * Balance zwischen sprachlicher Verknappung/Abstraktion und Wiedergabe der Beiträge. Bitte keine Umgangssprache verwenden. Auf korrekte Fachlexik achten. 
 * Das Protokoll vor der Abgabe Korrektur lesen (lassen).
@@ -200,18 +202,26 @@ Formulierens
 #### IV. Fünf Schritte bei der Erstellung des Protokolls 
 
 1. **Vorbereitung.** 
+
 Die zu protokollierende Sitzung sollte gut vorbereitet sein.
 2. **Rezeption der Seminarsitzung.**
+
 Die anspruchsvolle Aufgabe, Inhalte zu komprimieren und zu strukturieren ist durch eine Tonaufnahme nicht bewältigt, sondern nur vertagt. Außerdem erfordert die Aufnahme das Einverständis des gesamten Plenums. Hören Sie gut zu und seien Sie gnädig mit sich, wenn Sie nicht die vollen 90 Minuten jeden Satz verstehen. 
+
 3. **Mitschrift während der Sitzung.** 
+
 Wichtige Inhalte müssen dokumentiert werden – gern auch in Stichpunkten oder unter Verwendung von Symbolen und Verweisen. Es ist nicht leicht zu entscheiden, was wichtig und was weniger wichtig ist. Hier hilft es Ihnen, wenn Sie exzellent auf die Seminarsitzung vorbereitet sind. Achten Sie auf folgende Aspekte: 
     * Quantität der Besprechungsdauer – Wie lange wurde ein Aspekt besprochen? 
     * Top-down denken. Lässt sich die Sitzung in Themenclustern beschreiben? Wie lässt sich eine Struktur herstellen? 
     * Gesamtdiskurs aufzeigen. Welche Aspekte vergangener Sitzungen wurden aufgegriffen?
     * Bilanz ziehen. Offene Fragen nennen. 
+
 4. **Komprimieren und Reproduzieren.** 
+
 Es bietet sich an, die Mitschrift so schnell wie möglich zu bearbeiten, da die Inhalte dann noch frisch erinnert werden. Ergänzen Sie nun aus dem Gedächtnis oder aus Ihren Materialien wichtige Aspekte ihrer Mitschrift und bringen Sie die Inhalte in eine Struktur (die von der Chronologie des Seminars abweichen kann). 
+
 5. **Erstellen des Protokolls.** 
+
 Die Stichpunkte und Notizen müssen nun in ganze Sätze und eine kohärente Form gebracht werden. Möglicherweise wird der Text auch nochmals umstrukturiert. Der fertige, korrigierte Text kann auch nochmal anhand der Funktionen des Protokolls überprüft werden. Kann eine fremde Person den Sitzungsverlauf und -inhalte nachvollziehen?
 
 
@@ -235,6 +245,7 @@ Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfa
 ## 3. Sitzung am 30.04.2024
 
 Textgrundlage:
+
 * Gedanken über den Krieg [November 1933]
 
 Protokoll: Cedric A. Smerling
@@ -359,7 +370,7 @@ Textgrundlage:
 **Alain**
 
 * eig. [Émile-Auguste Chartier](https://de.wikipedia.org/wiki/%C3%89mile_Chartier) [1868-1951]
-* frz. Denker und Schriftsteller, Lehrer u.a. von [Raymond Aron](https://de.wikipedia.org/wiki/Raymond_Aron) [1905-1983], [Georges Camguilhem](https://de.wikipedia.org/wiki/Georges_Canguilhem) [1904-1995] und eben Simone Weil.
+* frz. Denker und Schriftsteller, Lehrer u.a. von [Raymond Aron](https://de.wikipedia.org/wiki/Raymond_Aron) [1905-1983], [Georges Canguilhem](https://de.wikipedia.org/wiki/Georges_Canguilhem) [1904-1995] und eben Simone Weil.
 * enger literarischer und gedanklicher Austausch
 
 ![alt text](459px-Émile_Chartier_portrait.jpeg)
