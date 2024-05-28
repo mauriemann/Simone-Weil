@@ -191,6 +191,7 @@ Formulierens
 2. Der Protokolltext: Der Text ist im Präsens zu verfassen. Bei Bezügen auf den Seminarverlauf - also was eine Person sagte - wird Präteritum gewählt. Das Protokoll ist in ganzen Sätzen (nicht in Stichpunkten) zu formulieren. Ergebnisse sollen dargestellt werden, allerdings auch deren diskursiver Zusammenhang berücksichtigt werden. Die namentliche Nennung von Sprecher*innen ist nicht angebracht. Besonders wichtige Aspekte können markiert oder hervorgehoben werden. Auch sollte das Protokoll sinnvoll durch Überschriften und Zwischenüberschriften (Thema und Unterthemen der Sitzung) strukturiert werden. Übliche Länge sind zwei bis drei DIN-A 4-Seiten.
 3. Der Anhang: Bibliographie der Literatur der Seminarsitzung / Folien auf die Bezug genommen wurde.
 4. Textformat: Serifenfont (z.B. Times New Roman) 12pt, Fußnoten 10pt., Zeilenabstand 1,5, Blocksatz, Seitenränder 3cm links, 3cm rechts 
+5. Das Protokoll wird im Indikativ verfasst.
 
 #### III. Herausforderungen
 
@@ -343,7 +344,7 @@ missbraucht. Er wird instrumentalisiert.
 **Abschluss der Sitzung / Fazit / Zusammenfassung**
 
 
-Die Seminarleitung stellt dem Plenum die Frage: “Was nehmt ihr aus der Sitzung mit?”.
+> Die Seminarleitung stellt dem Plenum die Frage: “Was nehmt ihr aus der Sitzung mit?”.
 Plenum nennt hohe Empathie seitens Weil für die (deutschen) Arbeiter und allgemein
 großen Bezug Arbeitern im Rahmen ihrer Texte. Auch wird Weils bildhafte Sprache
 erwähnt. Es stellt sich heraus, dass die innenpolitische Betrachtung des Krieges gänzlich
@@ -376,3 +377,112 @@ Textgrundlage:
 * enger literarischer und gedanklicher Austausch
 
 ![alt text](459px-Émile_Chartier_portrait.jpeg)
+
+
+### Protokoll (Daniel Bogonis)
+
+**Rekapitulation**
+
+Die Seminarleitung möchte die wichtigsten Aussagen zu dem zuletzt gelesenen Text
+„Gedanken über den Krieg“ sammeln und festhalten, ob es Unklarheiten gäbe. Das
+Plenum gibt die seinerseits markantesten Merkmale wieder. Eines wäre die
+Unmöglichkeit eines revolutionären Krieges. Dieses sei aufgrund der im Krieg
+verwendeten autoritären Strukturen und des Versuchs einer Revolution die genannten
+Strukturen eben zu überwinden ad absurdum geführt. Weiterhin wird an den
+Klassenkampf erinnert und sein Hineinzwingen des Klassenkampfes in den Krieg. Der
+Seminarleiter gibt zwei Beispiele für gescheiterte Revolutionen: diese wären die
+Französische und die sowjetische Revolution. Beide scheiterten aufgrund der
+kriegerischen Mittel. Diese überwinden keinen Staat, sondern bauen ihn auf.
+
+**Wer war Alain?**
+
+
+Alain war ein respektierter französischer Gelehrter, als die moralische
+Stimme Frankreichs und Schreiblehrer vieler berühmter Denker bekannt, unter denen war
+auch Simone Weil. Alain veröffentlichte in einem antifaschistischen französischen Blatt
+zehn Fragen an die Mitbürger. Simone Weil nahm sich die zehn Fragen und beantwortete
+die Zehnte. Die zu behandelnde Frage lautete: “Sind Menschen, die Ehre und Würde für
+wertvoller als das Leben erklären, als erste zum Einsatz ihres Lebens bereit? Und was soll
+man von denen denken, die es nicht sind?“
+
+**Zum Artikelentwurf: Antwort auf eine Frage von Alain**
+
+Der Seminarleiter führt nun zur eigentlichen Frage: „Wie S. Weil Alain nun antwortet?“
+Weil erklärt den „Würde“- Begriff, dieser sei zweideutig. Es gäbe eine selbstachtende
+Funktion - individuelle Würde, und es gäbe eine nationale Würde - eine Würde der
+Nation. Die Selbstachtung käme frei aus sich selbst heraus, beugt man sich dem äußerem,
+hätte dies nichts mit sich selbst zu tun. Zur „Ehre“ wird gesagt, dass der freie Entschluss,
+sein Leben einer Sache zu widmen, der Kern des eigentlichen Begriffs „Ehre“ ist. Dies
+wäre im Krieg nicht der Fall, da die Soldaten nicht die Freiheit hätten ob sie kämpfen.
+
+Der Ehre-Begriff ist pervertiert, die Arbeiter, die unterdrückt werden und somit keine
+eigene Ehre „bekommen“, müssen nun für die Ehre eines anderen, nämlich des
+allgemeinen Volkes sterben. Dies kommt weder aus sich heraus noch geschieht frei. Sie
+verlieren so Selbstachtung und sterben würdelos. S. Weil möchte die Begriffe
+voneinander abheben: die Würde käme von innen und die Ehre von außen an mich heran.
+Die Seminarleitung möchte den Diskurs lenken und stellt eine Frage: „Wie man den
+Zusammenhang zwischen Ehre, Würde und Frieden verstünde?“
+Die Ehre und die Würde wären vom Menschen gemachte Konstrukte, S. Weil kritisiert
+diese Begriffe, es wird auf die Unmöglichkeit verwiesen, Ehre der ersten Funktion aus
+dem Nationalstolz, aus dem Krieg zu gewinnen. Der Seminarleiter wiederholt die Frage
+von Alain und möchte wissen, ob Menschen, die auf Ehre erpicht sind eher in den Krieg
+ziehen würden. Die zweite Bedeutung des Würde- Begriffes lässt sich nur durch den
+Krieg erlangen, es wird Selbstachtung erlangt, in dem man fürs Vaterland stirbt. So wäre
+ein gekränkter Mensch, der dies nicht passiv hinnehmen kann, bereit, seine Leere zu
+füllen und für das Vaterland zu sterben. Die Seminarleitung verweist auf die Artus
+Romane, in denen ein Adliger erpicht darauf ist, seine Ehre durch Heldentaten zu steigern.
+Er zieht freiwillig los und kämpft um eigene Würde. Diese naive Vorstellung vom
+ehrenhaften Krieg wird von S. Weil entlarvt.
+
+**Feudaler Ehre-Begriff**
+
+
+Es findet sich in Artus Geschichten der feudale Ehre-Begriff wieder, anders als der
+eigentliche Kern der Ehre, wie S. Weil ihn beschreibt. Es geht beim feudalen Ehre-Begriff
+darum, den Tod der Erniedrigung vorzuziehen und nicht wie bei S. Weil den Tod der
+Selbstverachtung vorzuziehen. Die feudalen Leute sind die herrschenden Leute, diese
+schicken die Soldaten in den Kampf, um ihre eigene Würde und ihre eigene Ehre vor
+einer Erniedrigung zu schützten. Im Krieg gehe aber Ehre im ersten Sinne verloren und
+die Soldaten, die dafür kämpfen und sterben, würden von oben erniedrigt werden. Es
+würden alle erniedrigt werden.
+Aus dem Plenum kam nun eine Frage: „Inwieweit denn der Ehre-Begriff S. Weils
+Grundlage jeder Moral sei?“ Die Selbstachtung sei dem Lebenssinn gleich zu setzten,
+ohne Sinn gäbe es keinen Grund zu leben: wenn ich diesen Sinn verrate, soll ich den Tod
+vorziehen. So S. Weil. Auf die Frage hin, ob denn die Ehre meiner Lehnsherren auf mich
+zurückfallen würde, entgegnet das Plenum, dass die Leute, die für andere entscheiden,
+nicht sterben müssten. Den Soldaten wird die Freiheit genommen, ob sie kämpfen wollen
+oder nicht, ob sie bleiben wollen oder nicht. Dies sei mit dem Begriff der Selbstachtung
+nicht vereinbar. in der weiteren Diskussion wird klar, dass Kriege aus banalen Gründen
+starten können und dass, angewandt aufs alltägliche Leben, solch eine Einstellung von
+Ehre und Erniedrigung, zu Blutbädern führen würde. Die Ehre würde über
+Menschenleben gestellt.
+
+
+**Zu den Einträgen „Spanisches Tagebuch“**
+
+Das Plenum bespricht nun den zweiten Text das „spanisches Tagebuch“. Der
+Seminarleiter fragt nach den ersten Eindrücken und was den Lesern denn aufgefallen sei.
+Das Plenum startet mit einigen Anmerkungen. S. Weil häge Zweifel gegenüber ihrem
+militärischen Einsatz im spanischen Bürgerkrieg, sie stimmt vielen Taten nicht zu und sei
+nun moralische Komplizin. Das Plenum stellt sich die Frage, wen S. Weil als Feind und
+wen als Freund sieht. Herausgearbeitet wurde, dass der Feind der Antifaschisten die
+Faschisten sind und dazu gehören auch die faktischen Faschisten, also denjenigen, die mit
+den Faschisten kooperieren oder nicht an der Seite der Antifaschisten kämpfen, so z.B
+Großgrundbesitzer. Der Seminarleiter weist auf die Allgegenwärtigkeit der Frage hin,
+wen wir als Faschisten also als Feind und wen wir als nicht solchen sehen. Das Plenum
+zeigt den Widerspruch von S. Weil auf, sich eben jenen Strukturen unterzuordnen, die sie
+kritisiert.
+
+**Zum Artikelentwurf: Missliebige Gedanken**
+
+Zum folgenden Text möchte der Seminarleiter wissen, wie das Plenum den Text beurteile.
+Dieser Artikel beleuchtete mit Hinblick auf davor gelesenem Text die andere Seite des
+Krieges. Er wirft die Frage auf, ob sich etwas ändern könnte. Wie sich der Faschismus
+bekämpfen ließe. S. Weil sei aus dem Bürgerkrieg resigniert und moralisch verwundet
+wiedergekommen. Der Seminarleiter möchte wissen. ob es Ähnlichkeiten zu dem Text
+„Gedanken über den Krieg“ gäbe. Das schwierige Problem bliebe die alte Militärstruktur,
+und auch diese fand die Autorin im spanischen Bürgerkrieg wieder. Das Volk lehnt sich
+gegen den Staat auf, es kristallisiert sich eine neue Gruppe aus dem Volk heraus, die eben
+jenes Volk weiter erniedrigt.
+Der Seminarleiter beendet die Sitzung mit weiteren Leseeindrücken der bereits gelesen
+Texte.
