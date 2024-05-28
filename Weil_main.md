@@ -486,3 +486,24 @@ gegen den Staat auf, es kristallisiert sich eine neue Gruppe aus dem Volk heraus
 jenes Volk weiter erniedrigt.
 Der Seminarleiter beendet die Sitzung mit weiteren Leseeindrücken der bereits gelesen
 Texte.
+
+
+## 7. Sitzung am 28.05.2024
+
+
+Textgrundlage: Einige Gedanken über die Ursprünge des Hitlerismus
+
+
+**Gruppenarbeit:**
+
+* Gruppe 1: II. Hitler und die Außenpolitik des antiken Rom
+* Gruppe 2: III. Hitler und das innere Regime des Römischen Reichs
+* Gruppe 3: Schluss
+
+
+**Fragen:**
+
+* Welche Parallelen zieht Weil zwischen den Politiken des antiken Roms und des 3. Reiches?
+* Welche Rolle spielen die Nationale Überlegenheitserzählung, die Propaganda und die Mythologie?
+* Mit welchen Begriffen und Überlegungen beschreibt sie den Einsatz von Gewalt? 
+* Welche moralphilosophischen Schlüsse lassen sich aus ihren Überlegungen ziehen?
