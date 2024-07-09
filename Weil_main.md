@@ -73,6 +73,7 @@ narrator: UK English Female
 
 * Essay im Umfang von 5-7 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 30.09.2024
 
+
 ### Literatur über Simone Weil
 
 * Jacques Cabaud: Simone Weil. Logik der Liebe. Verlag Karl Alber, Freiburg/ München 1968.
@@ -173,17 +174,13 @@ narrator: UK English Female
 
 #### I. Grundformen und Funktionen
 
-1. Wortprotokoll, Verbalprotokoll – direkte Dokumentation des mündlichen Wortlauts z.B.
-bei Gerichtsverhandlungen
-2. Verlaufsprotokoll, Verhandlungsprotokoll – Protokoll des Gesprächsprozesses. Wie kam
-es zu Beschlüssen oder Ergebnissen? Wie lauteten die Argumente?
-3. Ergebnisprotokoll, Beschlussprotokoll – Fokus auf Ergebnisse. Keine Dokumentation des
-Gesprächsprozesses.
-4. Das wissenschaftliche Protokoll – Anteile des Verlauf- und Ergebnisprotokolls.
-Schriftliche und systematische Wiedergabe diskursiv erarbeiteten Wissens, die eine
-gemeinsame Wissensbasis schafft. Funktionen: Dokumentation und Aufbereitung des
-Wissens, Literaturgrundlage, Kontrolle des Wissensstandes, Üben wissenschaftlichen
-Formulierens
+1. Wortprotokoll, Verbalprotokoll – direkte Dokumentation des mündlichen Wortlauts z.B. bei Gerichtsverhandlungen
+
+2. Verlaufsprotokoll, Verhandlungsprotokoll – Protokoll des Gesprächsprozesses. Wie kam es zu Beschlüssen oder Ergebnissen? Wie lauteten die Argumente?
+
+3. Ergebnisprotokoll, Beschlussprotokoll – Fokus auf Ergebnisse. Keine Dokumentation des Gesprächsprozesses.
+
+4. Das wissenschaftliche Protokoll – Anteile des Verlauf- und Ergebnisprotokolls. Schriftliche und systematische Wiedergabe diskursiv erarbeiteten Wissens, die eine gemeinsame Wissensbasis schafft. Funktionen: Dokumentation und Aufbereitung des Wissens, Literaturgrundlage, Kontrolle des Wissensstandes, Üben wissenschaftlichen Formulierens
 
 #### II. (Sprachliche) Gestaltung
 
@@ -507,3 +504,193 @@ Textgrundlage: Einige Gedanken über die Ursprünge des Hitlerismus
 * Welche Rolle spielen die Nationale Überlegenheitserzählung, die Propaganda und die Mythologie?
 * Mit welchen Begriffen und Überlegungen beschreibt sie den Einsatz von Gewalt? 
 * Welche moralphilosophischen Schlüsse lassen sich aus ihren Überlegungen ziehen?
+
+## 8. Sitzung am 04.06.2024
+
+## 9. Sitzung am 11.06.2024
+
+## 10. Sitzung am 18.06.2024
+
+## 11. Sitzung am 25.06.2024
+
+### Protokoll von Luca Pawliczak
+
+
+*Textgrundlage: Dieser Krieg ist ein Krieg von Religionen*[^1]
+
+Die Sitzung des 25.06.2024 widmet sich den Text „Simone Weil: Dieser Krieg ist
+ein Krieg der Religionen“. Weil wirft dabei drei Methoden zur Überwindung von
+Gut und Böse in den Raum.
+
+Beginnend referiert der Dozent auf den Ilias-Text[^2] der vergangenen Sitzung.
+Dabei werden die Begriffe Gewalt, Gnade & Gerechtigkeit beleuchtet. Anbei
+wird versucht eine Verbindung zwischen den drei Begriffen herzustellen.
+
+Nach Weil ist Gewalt die Situation, die das Individuum im Krieg (- hier im
+Beispiel Ilias) umgibt. Diese allgegenwärtige Gewalt nimmt dem Menschen
+nach und nach immer mehr die ihm eigentlich zugehörige Menschlichkeit. Nur
+durch das Erkennen des Gegenübers als gleich – in der Akzeptanz der
+umgebenden Gewalt – entsteht ein Moment der Gerechtigkeit durch die Gnade.
+Diese Gnade drückt sich im Nicht-Töten des Gegenübers aus. In diesem
+Zustand der Transzendenzbewegung gewinnt der Mensch seine Menschlichkeit
+zurück. Demnach gilt, so nach Weil, die Gnade als gerechtes Mittel, um die
+Gewalt kurzzeitig zu unterbrechen. Im Plenum bleibt dennoch die Frage offen,
+ob es adäquat ist, die Gnade mit Gerechtigkeit zu identifizieren, und wenn ja, ob
+diese Gerechtigkeit demnach eine gewisse Melancholie mit sich bringt.
+
+Im Haupttext der Sitzung - *Dieser Krieg ist ein Krieg der
+Religionen* - beschäftigt sich Weil mit dem Befreiungsversuch des Menschen
+aus der ihm zu Last gelegenen Sphäre von Gut und Böse. Weil wirft dabei drei
+Methoden zur Überwindung in den Raum.
+
+Erstens das *Leugnen von Gut und Böse*[^3]. Diese Methodik geht hauptsächlich
+vom Individuum aus. Die Problematik in dieser Methodik liegt jedoch im Verlust
+der Orientierung. Demnach entspreche, wenn das Individuum weder gutes noch
+böses/schlechtes voneinander unterscheidet, die Orientierungslosigkeit einer
+Gleichgültigkeit, die in Wahn bzw. Nihilismus mündet.
+
+Eine weitere – die zweite – Methodik zur Überwindung von Gut und Böse ist die
+der *Idolatrie*[^4]. Hierbei wird – anders als in der ersten Methode – eine höhere
+Staatsgewalt, System oder gar Nation benötigt, um dieser Sphäre zu entgehen.
+Das System selber muss sich hierbei außerhalb der Sphäre von Gut und Böse
+bewegen. Des Weiteren dürfen weder Gut noch Böse in das System
+eindringen, weil die soziale Realität des Menschen eingegrenzt wird. Der
+Mensch wird dabei voll und ganz in diesem System eingebettet. Im Vergleich
+steht das Römische Reich, in das dem Menschen eine einzige Rolle
+zugewiesen ist. Dadurch ist ein Römer nicht mehr und auch nicht weniger als
+ein Römer, das dem animalischen Gesetz – oder nach Ansicht der Römer – das
+natürliche Recht der Expansion, Gehorsam sowie das Beherrschen seiner
+Feinde durch das Einbringen von Ordnung in die umliegende chaotische Welt
+folgt. Anbei verdeutlicht sich, dass das Privileg der Befreiung von Gut und Böse
+kostbarer zu sein scheint als Liebe, Freundschaft, körperliches Leiden und
+somit auch der Tod. Weil führt dabei an, dass diese absolute Lizenz empirisch
+durch das Quälen des Schwächeren bewiesen wird. Die Problematik der
+Idolatrie liegt in der Vergänglichkeit eines Systems. Diese Vergänglichkeit ist zur
+gleichen Zeit entwürdigend, da man „[…] sich zum Ding im Dienst einer
+vergänglichen Sache [...]“[^5] macht. Um der Vergänglichkeit sowie Entwürdigung
+zu entgehen, muss die Seele des Körpers, so Weil, verborgen werden.
+Somit sind die ersten zwei Methoden prekär und durch den Verlust der
+Reflexion nicht haltbar, da sie in sich selber zusammenfallen.
+
+
+Wohingegen die ersten zwei Methoden wie eine Emanzipation von Gott
+erscheinen, richtet sich die dritte Methodik – die der *Mystik*[^6] - auf Gott. Die
+Mystik erfordert ein Hinausgehen aus der Sphäre von Gut und Böse, die als Ziel
+die Vereinigung der Seele mit dem Absolutem Gut hat.[^7] Das entscheidende in
+dieser Methodik ist das Übernatürliche, das *unendliche Kleine*.[^8] Der Zugang
+zum absolutem Gut ist nach Weil nur durch *geistige Armut*[^9] erreichbar, die nicht
+nur geistig sondern auch real sein muss. Weil spricht dabei von einer Elite
+geistig armer Menschen, die in der Masse lebt und trotz tagtäglichen Elend und
+Leiden - ohne wollende Entschädigung - der Masse die geistige Armut vorlebt
+und sie damit durchtränkt. Da Weil diesen Begriff nicht weiter definiert, versucht
+das Plenum eine Definition der geistigen Armut zu finden. Der Versuch ergibt sich aus der Bergpredigt Jesu, der die geistig Armen selig spricht. In Bezug auf
+das unendlich Kleine kann Demut als Synonym der geistigen Armut genutzt
+werden, da sich dadurch zum einen ein spiritueller Gang aus der Sphäre des
+Gegenwärtigen entwickelt und zum anderen die Gnade – in Hinblick auf Gott –
+als etwas unendlich kleines erweist. Zur Unterstützung dieses
+Definitionsversuches wird sich auf die Metapher der Hefe bezogen, die zwar
+unendlich klein ist, aber alles von innen heraus durchtränkt und aufgehen
+lässt.[^10]
+Abschließend stellt Weil, auch wenn die ersten beiden Methoden – Nihilismus
+und Idolatrie - prekär und unmöglich zu erreichen sind, die Armut als das
+positive Gegenstück der Methoden dar. Dies lässt die Frage aufwerfen, ob die
+Demut nach Weil einer alternativen Ideologie gleicht. Einer Ideologie ohne
+Vision, in der die Elite selber nicht weiß, was gut für das Volk ist und es somit
+lediglich vorlebt.
+
+[^1]: Simone Weil: Krieg und Gewalt, Essays und Aufzeichnungen; Diaphanes, Zürich 2011.
+[^2]: Simone Weil : Krieg und Gewalt, Essays und Aufzeichnungen; Diaphanes, Zürich 2011.
+[^3]: Vgl. S. 205
+[^4]: Vgl. S. 206
+[^5]: Vgl. S. 208
+[^6]: Vgl. S. 208
+[^7]: Vgl. S. 209 ff.
+[^8]: Vgl. S. 209
+[^9]: Vgl. S. 211 ff.
+[^10]: Vgl. S. 213 letzter Absatz 
+
+## 12. Sitzung am 02.07.2024
+
+
+Analyse der Unterdrückung
+
+**Gruppenarbeit:**
+
+Ebenen der Unterdrückung / Arbeit an Begriffen
+
+* Gruppe 1: Natur und Lebensbedingungen
+* Gruppe 2: Gewalt vs. Unterdrückung
+* Gruppe 3: Ökonomie und Kapitalismuskritik
+* Gruppe 4: Herrschaft und Knechtschaft
+
+
+### Protokoll von Juliane Ziemer
+
+
+**Rekapitulation der 6. Sitzung**
+
+Vorab erfolgte eine kurze Rekapitulation der Textbesprechung Dieser Krieg ist ein Krieg von Religionen (1943) von Weil der vergangenen Sitzung. Es sollte kurz die Grundbewegung des Textes skizziert werden: Die Moralität des Menschen stellt ein Problem dar, weil „der Gegensatz von Gut und Böse für ihn eine unerträgliche Last ist.“[^1] Weil schlägt drei Methoden vor, welche den Menschen aus diesem Dilemma befreit, wobei sie nur der dritten Methode zuschreibt sie sei möglich. Die erste Methode besteht in der Leugnung des Gegensatzes von Gut und Böse.[^2] Die zweite Methode ist die der Idolatrie. Man schafft sich einen Raum, zum Beispiel innerhalb einer Wissenschaft, in der kein Unterschied zwischen Gut und Böse besteht. Sobald man aus diesem Raum austritt und dann in die Gesellschaft zurückkehrt, verfällt die Gleichheit von Gut und Böse wieder. Die dritte Methode ist die der Mystik. In der Mystik stechen durch die Vereinigung der Seele mit dem absoluten Gut sich Gut und Böse gegenüber und Gott ist nicht das unendlich Große, sondern das unendlich Kleine. Der Zugang zur Mystik ist schwer, aber möglich durch geistige und materielle Armut.
+
+**Textbesprechung Analyse der Unterdrückung (1934)** 
+
+Der Einstieg in den Text Analyse der Unterdrückung aus Weils Reflexionen über die Ursachen der Freiheit und der sozialen Unterdrückung erfolgt über eine Gruppenarbeitsphase. Die einzelnen Gruppen widmen sich mit ihrem Unterthema jeweils der übergeordneten Frage: Wie konzipiert Simone Weil Unterdrückung?
+
+**Ergebnisse der 3. Gruppe: Ökonomie und Kapitalismuskritik** 
+
+Hier bezieht sich Weil auf den Kapitalismusbegriff von Marx. Zu ihm grenzt sie sich allerdings ab, indem sie betont, dass in jeder Form gesellschaftlicher Organisation Unterdrückung vorherrscht, nicht nur im Kapitalismus. Im Kapitalismus besteht allerdings die höchste Form der Unterdrückung. Dies liest Weil unter anderem daran ab, dass der Kapitalismus das höchste Produktionsniveau aufweist und in anderen Formen gesellschaftlicher Organisation, die eher frei von Unterdrückung scheinen eben ein geringeres Produktionsniveau vorzufinden ist.[^3] Die Folge des hohen Produktionsniveaus des Kapitalismus entsteht dadurch das dies eben so das Ziel des Kapitalismus ist. Und durch die Bedingungen dieses Ziels entsteht auch die hohe Unterdrückung im Kapitalismus. Die Befehlenden, also die Arbeitgebenden, befinden sich in einer Unterdrückung, zumal sie gezwungen sind immer mehr zu tun um den Rivalen, der ebenso versuchen mehr zu tun, auszustechen.[^4] Unter dem Druck beziehungsweise diesem Machtkampf, dass die Produktion stetig wachsen muss, werden die Arbeitgebenden zu Unterdrückern gegenüber den Arbeitnehmenden, oder nach Weil den Gehorchenden. Demnach besteht eine Unterdrückung bereits in dieser starken Hierarchie der Arbeitsteilung. Die Formen von gesellschaftlicher Form, die von Unterdrückung frei zu scheinen, zu denen sagt Weil, dass eine Arbeitsteilung höchstens zwischen den Geschlechtern existiert.[^5] Marx These, dass sich die Arbeitenden, nach Marx das Proletariat, immer weiterentwickeln bis der Kapitalismus für die Produktion nicht mehr förderlich ist und quasi natürlich oder automatische eine Revolution geschehen muss, unterstützt Simone Weil nicht. Selbst wenn der Kapitalismus nicht mehr für die Produktion förderlich ist, ist es nicht möglich aus dem System des Kapitalismus mit Leichtigkeit zu entfliehen, zumal alle Befehlenden und Gehorchenden, innerhalb dieses Systems unterdrückt werden.
+
+**Zusammentragen der Gruppen im Plenum**
+
+Die erste Gruppe widmete sich dem Thema der Unterdrückung über die Natur. Der Mensch wird in die Natur hineingeboren und steht in einem Abhängigkeitsverhältnis zu ihr bereits dadurch, dass der Mensch auf Nahrung angewiesen ist. Die Unterdrückung des Menschen ist folglich biologischer Natur. Das Verhältnis von Mensch und Natur kann aber auch auf andere Gesellschaftsformen übertragen werden. Dadurch findet eine Emanzipation des Menschen von der Natur statt. Praktisch emanzipiert sich der Mensch von der Natur zum Beispiel durch wirtschaftlichen und technologischen Fortschritt. Das Verhältnis von Mensch und Natur überträgt sich dann zum Verhältnis von Mensch und Gesellschaft. Der Mensch mag nicht mehr im äußersten Maße von der Natur unterdrückt werden, fällt aber wieder in neue Unterdrückungsmuster durch das System der Gesellschaftsform. Das höchste Grad an Unterdrückung erfahren dann die Menschen die maßgeblich von anderen abhängig sind, die Arbeitenden beziehungsweise Gehorchenden. Hier tritt der Begriff der Knechtschaft ein mit dem sich die vierte Gruppe beschäftigt hat. „Die menschliche Geschichte ist nichts anderes als eine Geschichte der Knechtung – Unterdrückern sowohl wie Unterdrückten – ein bloßes Spielzeug der von ihnen selbst hergestellten Herrschaftsinstrumente macht und die lebendige Menschheit zu einem Ding unter leblosen Dingen erniedrigt.“[^6] Die Menschen befinden sich in ihrer eigenen verursachten Knechtschaft, in dem sie ein System schafften, in welchem sie sich von der Natur entfernten und so ihre eigene Verdinglichung bewirkten. Die zweite Gruppe hat sich mit dem Begriffen Gewalt und Monopol auseinandergesetzt. Erstmal gilt die Feststellung, dass Gewalt und Unterdrückung unterschiedliche Dinge sind.[^7] Unterdrückung basiert auf objektiven Dingen wie das Bestehen von Privilegien.[^8] Weil unterteilt in 4 Gruppen von Privilegierten., die über die Arbeitenden Beherrschen und zwar gibt es die Priester, die Techniker und Forscher, die Krieger und die Produzenten. Die einzelnen Gruppen stehen jeweils in einem Abhängigkeitsverhältnis mit den Arbeitenden (Verweis auf Gruppe 3: Verhältnis Produzent und Arbeitender). Diese Abhängigkeitsverhältnisse entstehen durch ein immer komplexer werdendes System, wo sich den die Gruppen als „Experten“ herauskristallisieren und die Arbeitenden auf deren „Expertenwissen“ angewiesen sind z.B. der Forscher der im Bereich der Atomphysik forscht und auf den man zwangsläufig angewiesen ist bei Fragen der Energieerschaffung durch das Atomkraftwerk. Diese Gruppen sind also als Monopole von Wenigen organisiert. Der Mensch wird nicht mehr von der Natur, sondern vom Menschen unterdrückt. Diese Unterdrückung macht den Menschen zum Ding. „Überdies macht sich noch immer, wenn auch auf indirektem Wege, der Druck der Natur geltend; denn Unterdrückung bekundet sich durch Gewalt, und letztendlich hat jede Gewalt ihre Quelle in der Natur.“[^9]
+Es kamen Fragen auf wie Weil den Begriff Gewalt versteht. Im Plenum wurde unter Anderem diskutiert, dass Unterdrückung die gesellschaftliche Manifestation der Gewalt ist. In dem Zusammenhang kam die These auf, dass Gewalt etwas Anthropologisches des Menschen ist, zumal Weil auch beschreibt, dass Gewalt ihre Quelle in der Natur hat. Weitergedacht ist dann die erste Form der Unterdrückung, die Unterdrückung der Gewalt um in einer Gesellschaft leben zu können. Dies passt überein mit anderen Merkmalen zu Gewalt und Unterdrückung, die im Plenum diskutiert wurden. Gewalt erschafft und erhält sich selbst und bedingt sich weiter. Gewalt wurde als Möglichkeit die Existenz eines Individuums in Frage zu stellen bis hin zu dem Tod des Individuums definiert. Unterdrückung hingegen kann in der Definition nicht den Tod von Individuen zum Ziel haben, zumal die Unterdrückung auf Ausbeutung und Instrumentalisierung von Menschen abzielt. Zu dem Verhältnis von Gewalt und Unterdrückung wurde betont, dass sich die Unterdrückung der Gewalt bedienen muss.
+
+
+**Literatur:**
+
+Simone Weil, „Der Krieg ist ein Krieg von Religionen.“, in Simone Weil. Krieg und Gewalt. Essays und Aufzeichnungen, 3. Auflage, 205-214. Zürich, 2011/2021. 
+
+Simone Weil, „Reflexionen über die Ursachen der Freiheit und sozialen Unterdrückung. Analyse der Unterdrückung.“, in Simone Weil. Unterdrückung und Freiheit. Politische Schriften., 171-198. München 1975.
+
+
+[^1]: Simone Weil, *Dieser Krieg ist ein Krieg von Religionen* (Zürich 2011/2021), 205.
+[^2]: Vgl. ebd., 205.
+[^3]: Vgl. Simone Weil, *Analyse der Unterdrückung* (München 1975), 176.
+[^4]: Vgl. Simone Weil, *Analyse der Unterdrückung* (München 1975), 182.
+[^5]: Vgl. ebd., 176.
+[^6]: Ebd., 184.
+[^7]: Simone Weil, *Analyse der Unterdrückung* (München 1975), 178.
+[^8]: Vgl. ebd.
+[^9]: Ebd., 177.
+
+
+## 13. Sitzung am 09.07.2024
+
+### Aufgabenstellung Take-Home-Klausur BA 4
+
+**Hinweise**
+
+
+1) Bitte beachten Sie die formalen Vorgaben für schriftliche Arbeiten im Fach Philosophie. Lassen Sie Ihren Text vor der Abgabe Korrektur lesen.
+
+2) Bitte benutzen Sie für die Titelseite die entsprechende Vorlage (als Download auf der Instituts-Website).
+
+3) Sämtliche verwendete Quellen sind eindeutig und einheitlich bibliographisch nachzuweisen. Die Beantwortung jeder Frage muss einen Bezug zur Primärliteratur haben. Vermeiden Sie indirekte Zitate und zitieren Sie wenn möglich direkt aus dem Text.
+
+4) Gehen Sie in die Bibliothek und recherchieren Sie.
+
+5) Die Klausur ist selbständig zu verfassen. Die entsprechende eidesstattliche Erklärung (Vorlage ebenfalls auf der Instituts-Website) ist zu verwenden.
+
+6) Abgabetermin ist der 30.09.2024. Die Abgabe erfolgt ausgedruckt an der Hauptpforte oder im Abgabekasten im Erdgeschoss der LS 4. Keine Abgabe per Email! 
+
+**Bitte wählen Sie aus den folgenden Fragen zwei aus und beantworten diese auf insgesamt 5-6 Seiten (zzgl. Deckblatt und Literaturverzeichnis)**
+
+
+
+1. Rekonstruieren Sie Weils Argumentation, warum Krieg kein geeignetes Mittel der Revolution sein kann, ausgehend von *Gedanken über den Krieg*. (2-3 Seiten)
+2. Diskutieren Sie die Parallelen zwischen dem römischen Reich und dem Hitlerismus. (2-3 Seiten)
+3. „Die Gewalt macht jeden, der sie erleidet, zum Ding.“ (Simone Weil: Die Ilias oder das Poem der Gewalt, S. 161). Erörtern Sie ausgehend von Weils Ilias-Essay das Verhältnis von Gewalt und Gnade. (2-3 Seiten)
+4. Versuchen Sie eine Begriffsbestimmung des "unendlich Kleinen" im Verhältnis zur geistigen Armut. (2-3 Seiten)
+5. Charakterisieren Sie die Dimensionen der menschlichen Unterdrückung. (2-3 Seiten)
+6. Erklären Sie Weils Verständnis von Freiheit. (2-3 Seiten)  
+
+**Viel Erfolg und fröhliche Wissenschaft!**
